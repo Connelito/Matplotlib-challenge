@@ -41,6 +41,11 @@ I will do the follwing:
 
 ## Written Report
 
+  * Overall, Capomulin is the favored drug regimen to reduce tumor growth.
+  * Capomulin had the most number of mice complete the study, with the exception of Remicane. All other regimens observed a number of mouse casualties across the study.
+  * There is a strong correlation between mouse weight and tumor volume indicating that mouse weight may be contributing to the effectiveness of any drug regimen.
+  * Most mice showed tumor volume increase excluding one outlier mouse that had a reduction in tumor growth in the study using the Infubinol regimen.
+
   - - - 
 
 ## References
