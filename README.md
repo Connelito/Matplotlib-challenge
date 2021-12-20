@@ -34,7 +34,7 @@ I will do the follwing:
 * Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.<br>
   ![Capomulin Treatment Scatter Plot](Images/avg_tumor_vol_mouse_weight_scatter.jpg)
 
-* Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.<br>
+* Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment and plot the linear regression model on top of the previous scatter plot.<br>
   ![Capomulin Treatment Linear Regression](Images/avg_tumor_vol_mouse_weight_regression.jpg)
 
   - - -
